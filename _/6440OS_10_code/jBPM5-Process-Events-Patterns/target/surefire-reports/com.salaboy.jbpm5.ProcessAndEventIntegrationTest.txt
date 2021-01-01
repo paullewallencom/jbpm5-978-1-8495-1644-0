@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.salaboy.jbpm5.ProcessAndEventIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 62.49 sec
